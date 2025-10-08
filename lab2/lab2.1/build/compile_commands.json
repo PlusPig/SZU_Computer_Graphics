@@ -1,0 +1,20 @@
+[
+{
+  "directory": "D:/code/Graphics_lab2.1/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=c++11 -o CMakeFiles\\main.dir\\InitShader.cpp.obj -c D:\\code\\Graphics_lab2.1\\InitShader.cpp",
+  "file": "D:/code/Graphics_lab2.1/InitShader.cpp",
+  "output": "CMakeFiles/main.dir/InitShader.cpp.obj"
+},
+{
+  "directory": "D:/code/Graphics_lab2.1/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\glad.c.obj -c D:\\code\\Graphics_lab2.1\\glad.c",
+  "file": "D:/code/Graphics_lab2.1/glad.c",
+  "output": "CMakeFiles/main.dir/glad.c.obj"
+},
+{
+  "directory": "D:/code/Graphics_lab2.1/build",
+  "command": "D:\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/main.dir/includes_CXX.rsp -g -std=c++11 -o CMakeFiles\\main.dir\\main.cpp.obj -c D:\\code\\Graphics_lab2.1\\main.cpp",
+  "file": "D:/code/Graphics_lab2.1/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

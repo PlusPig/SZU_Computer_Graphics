@@ -1,0 +1,3 @@
+D:/code/Graphics_lab2.3/build/CMakeFiles/main.dir
+D:/code/Graphics_lab2.3/build/CMakeFiles/edit_cache.dir
+D:/code/Graphics_lab2.3/build/CMakeFiles/rebuild_cache.dir

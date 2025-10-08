@@ -1,0 +1,1 @@
+ "D:/vcpkg/installed/x64-windows/debug/lib/glad.lib" "D:/vcpkg/installed/x64-windows/debug/lib/glfw3dll.lib" "D:/vcpkg/installed/x64-windows/debug/lib/glm.lib" -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 

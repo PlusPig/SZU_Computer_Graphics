@@ -1,0 +1,10 @@
+^D:\CODE\实验1.2_留空代码\BUILD\CMAKEFILES\D100655A39AF81FD1034BE9414EFC13E\GENERATE.STAMP.RULE
+setlocal
+D:\bin\cmake.exe -SD:/code/实验1.2_留空代码 -BD:/code/实验1.2_留空代码/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/code/实验1.2_留空代码/build/main.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
