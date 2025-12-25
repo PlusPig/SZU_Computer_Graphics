@@ -1,0 +1,3 @@
+D:/code/Graphics_lab4th/build/CMakeFiles/main.dir
+D:/code/Graphics_lab4th/build/CMakeFiles/edit_cache.dir
+D:/code/Graphics_lab4th/build/CMakeFiles/rebuild_cache.dir
